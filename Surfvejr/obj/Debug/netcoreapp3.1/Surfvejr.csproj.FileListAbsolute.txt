@@ -1,258 +1,438 @@
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.exe
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.deps.json
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.runtimeconfig.json
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.runtimeconfig.dev.json
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.dll
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.pdb
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.Views.dll
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.Views.pdb
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.csprojAssemblyReference.cache
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.AssemblyInfoInputs.cache
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.AssemblyInfo.cs
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.csproj.CoreCompileInputs.cache
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorAssemblyInfo.cache
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorAssemblyInfo.cs
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.TagHelpers.input.cache
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.TagHelpers.output.cache
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorCoreGenerate.cache
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Home\about.cshtml.g.cs
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Home\inner-page.cshtml.g.cs
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Home\map.cshtml.g.cs
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Home\reviews.cshtml.g.cs
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorTargetAssemblyInfo.cache
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorTargetAssemblyInfo.cs
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.Views.pdb
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\staticwebassets\Surfvejr.StaticWebAssets.Manifest.cache
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\staticwebassets\Surfvejr.StaticWebAssets.xml
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.dll
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.pdb
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.genruntimeconfig.cache
-C:\Users\famil\source\repos\Surfvejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.csproj.CopyComplete
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.exe
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.deps.json
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.runtimeconfig.json
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.runtimeconfig.dev.json
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.dll
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.pdb
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.Views.dll
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.Views.pdb
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.csprojAssemblyReference.cache
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.AssemblyInfoInputs.cache
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.AssemblyInfo.cs
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.csproj.CoreCompileInputs.cache
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorAssemblyInfo.cache
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorAssemblyInfo.cs
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.TagHelpers.input.cache
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.TagHelpers.output.cache
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorCoreGenerate.cache
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Home\about.cshtml.g.cs
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Home\map.cshtml.g.cs
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Home\reviews.cshtml.g.cs
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorTargetAssemblyInfo.cache
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorTargetAssemblyInfo.cs
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.Views.pdb
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\staticwebassets\Surfvejr.StaticWebAssets.Manifest.cache
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\staticwebassets\Surfvejr.StaticWebAssets.xml
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.dll
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.pdb
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.genruntimeconfig.cache
-C:\Users\famil\Desktop\Git\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.csproj.CopyComplete
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\appsettings.Development.json
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.exe
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.deps.json
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.runtimeconfig.json
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.runtimeconfig.dev.json
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.pdb
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.Views.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Surfvejr.Views.pdb
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.csprojAssemblyReference.cache
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.AssemblyInfoInputs.cache
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.AssemblyInfo.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorAssemblyInfo.cache
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorAssemblyInfo.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.TagHelpers.input.cache
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.TagHelpers.output.cache
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorCoreGenerate.cache
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Home\about.cshtml.g.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Home\index.cshtml.g.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Home\map.cshtml.g.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Home\reviews.cshtml.g.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorTargetAssemblyInfo.cache
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorTargetAssemblyInfo.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.Views.pdb
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\staticwebassets\Surfvejr.StaticWebAssets.Manifest.cache
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\staticwebassets\Surfvejr.StaticWebAssets.xml
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.pdb
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.genruntimeconfig.cache
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.csproj.CopyComplete
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\System.Text.Json.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.csproj.CoreCompileInputs.cache
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\SurfSpots\Create.cshtml.g.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\SurfSpots\Delete.cshtml.g.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\SurfSpots\Details.cshtml.g.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\SurfSpots\Edit.cshtml.g.cs
-C:\Users\koest\Desktop\Coding\Surf vejr\SurfVejr-master\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\SurfSpots\Index.cshtml.g.cs
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.exe
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.deps.json
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.runtimeconfig.json
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.runtimeconfig.dev.json
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.dll
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.pdb
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.Views.dll
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.Views.pdb
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.csprojAssemblyReference.cache
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.AssemblyInfoInputs.cache
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.AssemblyInfo.cs
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.csproj.CoreCompileInputs.cache
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorAssemblyInfo.cache
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorAssemblyInfo.cs
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.TagHelpers.input.cache
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.TagHelpers.output.cache
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorCoreGenerate.cache
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/about.cshtml.g.cs
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/index.cshtml.g.cs
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/inner-page.cshtml.g.cs
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/map.cshtml.g.cs
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/reviews.cshtml.g.cs
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorTargetAssemblyInfo.cache
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorTargetAssemblyInfo.cs
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.Views.pdb
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/staticwebassets/Surfvejr.StaticWebAssets.Manifest.cache
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/staticwebassets/Surfvejr.StaticWebAssets.xml
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.dll
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.pdb
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.genruntimeconfig.cache
+C:/Users/famil/source/repos/Surfvejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.csproj.CopyComplete
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.exe
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.deps.json
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.runtimeconfig.json
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.runtimeconfig.dev.json
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.dll
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.pdb
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.Views.dll
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.Views.pdb
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.csprojAssemblyReference.cache
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.AssemblyInfoInputs.cache
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.AssemblyInfo.cs
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.csproj.CoreCompileInputs.cache
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorAssemblyInfo.cache
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorAssemblyInfo.cs
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.TagHelpers.input.cache
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.TagHelpers.output.cache
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorCoreGenerate.cache
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/about.cshtml.g.cs
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/index.cshtml.g.cs
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/map.cshtml.g.cs
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/reviews.cshtml.g.cs
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorTargetAssemblyInfo.cache
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorTargetAssemblyInfo.cs
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.Views.pdb
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/staticwebassets/Surfvejr.StaticWebAssets.Manifest.cache
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/staticwebassets/Surfvejr.StaticWebAssets.xml
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.dll
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.pdb
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.genruntimeconfig.cache
+C:/Users/famil/Desktop/Git/SurfVejr/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.csproj.CopyComplete
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.exe
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.deps.json
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.runtimeconfig.json
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.runtimeconfig.dev.json
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.pdb
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.Views.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.Views.pdb
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.csprojAssemblyReference.cache
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.AssemblyInfoInputs.cache
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.AssemblyInfo.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorAssemblyInfo.cache
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorAssemblyInfo.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.TagHelpers.input.cache
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.TagHelpers.output.cache
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorCoreGenerate.cache
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/about.cshtml.g.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/index.cshtml.g.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/map.cshtml.g.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/reviews.cshtml.g.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorTargetAssemblyInfo.cache
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorTargetAssemblyInfo.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.Views.pdb
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/staticwebassets/Surfvejr.StaticWebAssets.Manifest.cache
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/staticwebassets/Surfvejr.StaticWebAssets.xml
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.pdb
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.genruntimeconfig.cache
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.csproj.CopyComplete
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.csproj.CoreCompileInputs.cache
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Properties/serviceDependencies.json
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/bin/Debug/netcoreapp3.1/Properties/serviceDependencies.local.json
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/SurfSpots/Create.cshtml.g.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/SurfSpots/Delete.cshtml.g.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/SurfSpots/Details.cshtml.g.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/SurfSpots/Edit.cshtml.g.cs
+C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/SurfSpots/Index.cshtml.g.cs
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/appsettings.json
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Properties/serviceDependencies.json
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Properties/serviceDependencies.local.json
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.deps.json
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.runtimeconfig.json
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.runtimeconfig.dev.json
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.pdb
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.Views.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Surfvejr.Views.pdb
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Workspaces.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/dotnet-aspnet-codegenerator-design.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/System.Composition.AttributedModel.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/System.Composition.Convention.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/System.Composition.Hosting.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/System.Composition.Runtime.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/System.Composition.TypedParts.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/var/www/surfsup/Surfvejr/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.csprojAssemblyReference.cache
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.AssemblyInfoInputs.cache
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.AssemblyInfo.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.csproj.CoreCompileInputs.cache
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.MvcApplicationPartsAssemblyInfo.cache
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorAssemblyInfo.cache
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorAssemblyInfo.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.TagHelpers.input.cache
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.TagHelpers.output.cache
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorCoreGenerate.cache
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/about.cshtml.g.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/index.cshtml.g.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/map.cshtml.g.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Home/reviews.cshtml.g.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/SurfSpots/Create.cshtml.g.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/SurfSpots/Delete.cshtml.g.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/SurfSpots/Details.cshtml.g.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/SurfSpots/Edit.cshtml.g.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/SurfSpots/Index.cshtml.g.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorTargetAssemblyInfo.cache
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.RazorTargetAssemblyInfo.cs
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.Views.pdb
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.csproj.CopyComplete
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/staticwebassets/Surfvejr.StaticWebAssets.Manifest.cache
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/staticwebassets/Surfvejr.StaticWebAssets.xml
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.dll
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.pdb
+/var/www/surfsup/Surfvejr/obj/Debug/netcoreapp3.1/Surfvejr.genruntimeconfig.cache

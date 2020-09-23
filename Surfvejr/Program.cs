@@ -17,10 +17,6 @@ namespace Surfvejr
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
-            Host.CreateDefaultBuilder(args)
-                .ConfigureWebHostDefaults(webBuilder =>
-                {
-                    webBuilder.UseStartup<Startup>();
-                });
-    }
+            WebHost.CreateDefaultBuilder(args)
+            .UseStartup<Startup>();
 }
