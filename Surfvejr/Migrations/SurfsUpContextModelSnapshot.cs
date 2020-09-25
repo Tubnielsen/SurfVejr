@@ -2,17 +2,15 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
-using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Surfvejr.Data;
 
 namespace Surfvejr.Migrations
 {
-    [DbContext(typeof(SurfSpotContext))]
-    [Migration("20200911091245_InitialSurfSpot")]
-    partial class InitialSurfSpot
+    [DbContext(typeof(SurfsUpContext))]
+    partial class SurfSpotContextModelSnapshot : ModelSnapshot
     {
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected override void BuildModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

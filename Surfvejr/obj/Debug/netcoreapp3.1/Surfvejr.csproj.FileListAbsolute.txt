@@ -439,7 +439,6 @@ C:/Users/koest/Desktop/Coding/Surf vejr/SurfVejr-master/Surfvejr/obj/Debug/netco
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.csprojAssemblyReference.cache
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\staticwebassets\Surfvejr.StaticWebAssets.Manifest.cache
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\staticwebassets\Surfvejr.StaticWebAssets.xml
-C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorAssemblyInfo.cache
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorAssemblyInfo.cs
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.AssemblyInfoInputs.cache
@@ -613,3 +612,4 @@ C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Sur
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorTargetAssemblyInfo.cs
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.Views.pdb
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.csproj.CopyComplete
+C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.MvcApplicationPartsAssemblyInfo.cache

@@ -12,9 +12,9 @@ namespace Surfvejr.Controllers
 {
     public class SurfSpotsController : Controller
     {
-        private readonly SurfvejrContext _context;
+        private readonly SurfsUpContext _context;
 
-        public SurfSpotsController(SurfvejrContext context)
+        public SurfSpotsController(SurfsUpContext context)
         {
             _context = context;
         }
@@ -22,7 +22,7 @@ namespace Surfvejr.Controllers
         // GET: SurfSpots
         public async Task<IActionResult> Index()
         {
-            return View(await _context.SurfSpot.ToListAsync());
+            return View(await _context.SurfSpots.ToListAsync());
         }
 
         // GET: SurfSpots/Details/5
@@ -33,8 +33,8 @@ namespace Surfvejr.Controllers
                 return NotFound();
             }
 
-            var surfSpot = await _context.SurfSpot
-                .FirstOrDefaultAsync(m => m.id == id);
+            var surfSpot = await _context.SurfSpots
+                .FirstOrDefaultAsync(m => m.Id == id);
             if (surfSpot == null)
             {
                 return NotFound();
@@ -73,7 +73,7 @@ namespace Surfvejr.Controllers
                 return NotFound();
             }
 
-            var surfSpot = await _context.SurfSpot.FindAsync(id);
+            var surfSpot = await _context.SurfSpots.FindAsync(id);
             if (surfSpot == null)
             {
                 return NotFound();
@@ -88,7 +88,7 @@ namespace Surfvejr.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("id,name,latitude,longitude")] SurfSpot surfSpot)
         {
-            if (id != surfSpot.id)
+            if (id != surfSpot.Id)
             {
                 return NotFound();
             }
@@ -102,7 +102,7 @@ namespace Surfvejr.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!SurfSpotExists(surfSpot.id))
+                    if (!SurfSpotExists(surfSpot.Id))
                     {
                         return NotFound();
                     }
@@ -124,8 +124,8 @@ namespace Surfvejr.Controllers
                 return NotFound();
             }
 
-            var surfSpot = await _context.SurfSpot
-                .FirstOrDefaultAsync(m => m.id == id);
+            var surfSpot = await _context.SurfSpots
+                .FirstOrDefaultAsync(m => m.Id == id);
             if (surfSpot == null)
             {
                 return NotFound();
@@ -139,15 +139,15 @@ namespace Surfvejr.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var surfSpot = await _context.SurfSpot.FindAsync(id);
-            _context.SurfSpot.Remove(surfSpot);
+            var surfSpot = await _context.SurfSpots.FindAsync(id);
+            _context.SurfSpots.Remove(surfSpot);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool SurfSpotExists(int id)
         {
-            return _context.SurfSpot.Any(e => e.id == id);
+            return _context.SurfSpots.Any(e => e.Id == id);
         }
     }
 }

@@ -7,13 +7,14 @@ using Surfvejr.Models;
 
 namespace Surfvejr.Data
 {
-    public class SurfvejrContext : DbContext
+    public class SurfsUpContext : DbContext
     {
-        public SurfvejrContext (DbContextOptions<SurfvejrContext> options)
+        public SurfsUpContext (DbContextOptions<SurfsUpContext> options)
             : base(options)
         {
+
         }
 
-        public DbSet<Surfvejr.Models.SurfSpot> SurfSpot { get; set; }
+        public DbSet<SurfSpot> SurfSpots { get; set; }
     }
 }

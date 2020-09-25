@@ -1,16 +1,12 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpOverrides;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Surfvejr.Data;
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
+using Microsoft.EntityFrameworkCore;
 
 namespace Surfvejr
 {
@@ -28,11 +24,8 @@ namespace Surfvejr
         {
             services.AddControllersWithViews();
 
-            services.AddDbContext<SurfSpotContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("SurfSpotContext")));
-
-            services.AddDbContext<SurfvejrContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("SurfvejrContext")));
+            services.AddDbContextPool<SurfsUpContext>(options =>
+                    options.UseMySql(Configuration.GetConnectionString("SurfSpotContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
