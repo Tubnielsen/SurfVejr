@@ -613,3 +613,6 @@ C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Sur
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.Views.pdb
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.csproj.CopyComplete
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll

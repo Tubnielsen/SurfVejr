@@ -25,7 +25,7 @@ namespace Surfvejr
             services.AddControllersWithViews();
 
             services.AddDbContextPool<SurfsUpContext>(options =>
-                    options.UseMySql(Configuration.GetConnectionString("SurfSpotContext")));
+                    options.UseMySql(Configuration.GetConnectionString("SurfsUpContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -42,7 +42,7 @@ namespace Surfvejr
                 // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
                 app.UseHsts();
             }
-
+            //DONT DELETE. Needed for the reverse proxy web server to work :) 
             app.UseForwardedHeaders(new ForwardedHeadersOptions
             {
                 ForwardedHeaders = ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto
