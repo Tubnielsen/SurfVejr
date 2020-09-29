@@ -1,4 +1,6 @@
-﻿@{ 
+﻿@model IEnumerable<Surfvejr.Models.SurfSpot>
+
+@{ 
     ViewData["Title"] = "Home Page";
 }
 
@@ -45,7 +47,61 @@
   </section><!-- #hero -->
 
   <main id="main">
+    <!-- ======= Test data Section =======-->
+    <section id="testdata" class="testdata">
+        <div class="container">
+            <div class="section-title">
+                <h2>Check database data</h2>
+            </div>
 
+            <p>
+                <a asp-action="Create">Create New Entry</a>
+            </p>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Id)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Name)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Latitude)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Longitude)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td>
+                            @Html.DisplayNameFor(modelItem => item.Id)
+                        </td>
+                        <td>
+                            @Html.DisplayNameFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayNameFor(modelItem => item.Latitude)
+                        </td>
+                        <td>
+                            @Html.DisplayNameFor(modelItem => item.Longitude)
+                        </td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                            <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        </td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </section>
     <!-- ======= About Us Section ======= -->
     <section id="about" class="about">
       <div class="container">

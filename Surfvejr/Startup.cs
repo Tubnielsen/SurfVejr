@@ -24,8 +24,13 @@ namespace Surfvejr
         {
             services.AddControllersWithViews();
 
-            services.AddDbContextPool<SurfsUpContext>(options =>
-                    options.UseMySql(Configuration.GetConnectionString("SurfsUpContext")));
+            //Connection to Webserver's database.
+            //services.AddDbContextPool<SurfsUpContext>(options =>
+            //        options.UseMySql(Configuration.GetConnectionString("SurfsUpConnection")));
+
+            //Connection to localDB for testing.
+            services.AddDbContext<SurfsUpContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("TestConnection")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

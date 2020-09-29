@@ -16,5 +16,12 @@ namespace Surfvejr.Data
         }
 
         public DbSet<SurfSpot> SurfSpots { get; set; }
+        public DbSet<SpotData> SpotData { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<SurfSpot>().ToTable("Surf_spot");
+            modelBuilder.Entity<SpotData>().ToTable("Spot_data");
+        }
     }
 }
