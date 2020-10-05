@@ -32,6 +32,7 @@ namespace Surfvejr.Data
             {
                 context.SpotData.Add(e);
             }
+            context.SaveChanges();
 
             var SurfSpots = new SurfSpot[]
             {

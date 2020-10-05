@@ -601,11 +601,6 @@ C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Raz
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\SurfSpots\Create.cshtml.g.cs
-C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\SurfSpots\Delete.cshtml.g.cs
-C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\SurfSpots\Details.cshtml.g.cs
-C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\SurfSpots\Edit.cshtml.g.cs
-C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\SurfSpots\Index.cshtml.g.cs
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Surfvejr.RazorTargetAssemblyInfo.cache
@@ -616,3 +611,8 @@ C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Sur
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\MySqlConnector.dll
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
 C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\SurfSpots\Create.cshtml.g.cs
+C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\SurfSpots\Delete.cshtml.g.cs
+C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\SurfSpots\Details.cshtml.g.cs
+C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\SurfSpots\Edit.cshtml.g.cs
+C:\Users\tubni\programming\Surfsup\SurfVejr\Surfvejr\obj\Debug\netcoreapp3.1\Razor\Views\SurfSpots\Index.cshtml.g.cs

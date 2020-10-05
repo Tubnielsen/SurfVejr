@@ -54,7 +54,7 @@ namespace Surfvejr.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("id,name,latitude,longitude")] SurfSpot surfSpot)
+        public async Task<IActionResult> Create([Bind("Id,Name,Latitude,Longitude")] SurfSpot surfSpot)
         {
             if (ModelState.IsValid)
             {
@@ -86,7 +86,7 @@ namespace Surfvejr.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("id,name,latitude,longitude")] SurfSpot surfSpot)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Latitude,Longitude")] SurfSpot surfSpot)
         {
             if (id != surfSpot.Id)
             {
