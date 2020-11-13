@@ -34,7 +34,10 @@ namespace Surfvejr.Controllers
             }
 
             var surfSpot = await _context.SurfSpots
+                .Include(s => s.SpotData)
+                .AsNoTracking()
                 .FirstOrDefaultAsync(m => m.Id == id);
+
             if (surfSpot == null)
             {
                 return NotFound();
@@ -54,13 +57,21 @@ namespace Surfvejr.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Latitude,Longitude")] SurfSpot surfSpot)
+        public async Task<IActionResult> Create([Bind("Name,Latitude,Longitude")] SurfSpot surfSpot)
         {
-            if (ModelState.IsValid)
+            try
             {
-                _context.Add(surfSpot);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                if (ModelState.IsValid)
+                {
+                    _context.Add(surfSpot);
+                    await _context.SaveChangesAsync();
+                    return RedirectToAction(nameof(Index));
+                }
+            }
+            catch (DbUpdateException)
+            {
+                //Error log.
+                ModelState.AddModelError("", "Unable to save create new entry.");
             }
             return View(surfSpot);
         }
@@ -84,36 +95,32 @@ namespace Surfvejr.Controllers
         // POST: SurfSpots/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
+        [HttpPost, ActionName("Edit")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Latitude,Longitude")] SurfSpot surfSpot)
         {
-            if (id != surfSpot.Id)
+            if (id == null)
             {
                 return NotFound();
             }
-
-            if (ModelState.IsValid)
+            var SurfSpotToUpdate = await _context.SurfSpots.FirstOrDefaultAsync(s => s.Id == id);
+            if (await TryUpdateModelAsync<SurfSpot>(
+                SurfSpotToUpdate,
+                "",
+                s => s.Name, s => s.Latitude, s => s.Longitude))
             {
                 try
                 {
-                    _context.Update(surfSpot);
                     await _context.SaveChangesAsync();
+                    return RedirectToAction(nameof(Index));
                 }
-                catch (DbUpdateConcurrencyException)
+                catch (DbUpdateException)
                 {
-                    if (!SurfSpotExists(surfSpot.Id))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
+                    //Error log
+                    ModelState.AddModelError("", "Unable to edit surf spot.");
                 }
-                return RedirectToAction(nameof(Index));
             }
-            return View(surfSpot);
+            return View(SurfSpotToUpdate);
         }
 
         // GET: SurfSpots/Delete/5
