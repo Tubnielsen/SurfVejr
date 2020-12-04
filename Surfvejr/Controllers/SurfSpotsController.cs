@@ -97,7 +97,7 @@ namespace Surfvejr.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost, ActionName("Edit")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Name,Latitude,Longitude")] SurfSpot surfSpot)
+        public async Task<IActionResult> EditPost(int? id)
         {
             if (id == null)
             {
@@ -124,7 +124,7 @@ namespace Surfvejr.Controllers
         }
 
         // GET: SurfSpots/Delete/5
-        public async Task<IActionResult> Delete(int? id)
+        public async Task<IActionResult> Delete(int? id, bool? saveChangesError = false)
         {
             if (id == null)
             {
@@ -132,10 +132,16 @@ namespace Surfvejr.Controllers
             }
 
             var surfSpot = await _context.SurfSpots
+                .AsNoTracking()
                 .FirstOrDefaultAsync(m => m.Id == id);
             if (surfSpot == null)
             {
                 return NotFound();
+            }
+
+            if (saveChangesError.GetValueOrDefault())
+            {
+                ViewData["ErrorMessage"] = "Failed to delete.";
             }
 
             return View(surfSpot);
@@ -147,9 +153,22 @@ namespace Surfvejr.Controllers
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var surfSpot = await _context.SurfSpots.FindAsync(id);
-            _context.SurfSpots.Remove(surfSpot);
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            if (surfSpot == null)
+            {
+                return RedirectToAction(nameof(Index));
+            }
+
+            try
+            {
+                _context.SurfSpots.Remove(surfSpot);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            catch (DbUpdateException)
+            {
+                //Can use the exception to log an error.
+                return RedirectToAction(nameof(Delete), new { id = id, saveChangesError = true });
+            }
         }
 
         private bool SurfSpotExists(int id)

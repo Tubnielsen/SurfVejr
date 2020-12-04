@@ -1,4 +1,4 @@
-/*--------------------------------------------------------------
+﻿/*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 @charset "UTF-8";
@@ -119,26 +119,34 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 # Navigation Menu
 --------------------------------------------------------------*/
 /* Desktop Navigation */
+.nav-link {
+    display: flex;
+    padding: 15px;
+    font-weight: normal;
+    border-bottom: 15px solid #fff;
+    text-decoration: none;
+}
 .nav-menu, .nav-menu * {
-  margin: 0;
-  padding: 0;
-  list-style: none;
+    margin: auto;
+    padding: 0;
+    list-style: none;
+    display: inline;
 }
 
 .nav-menu > ul > li {
   position: relative;
   white-space: nowrap;
-  float: left;
+  display: inline;
 }
 
 .nav-menu a {
-  display: block;
-  position: relative;
-  color: #d2ece9;
-  padding: 10px 15px;
-  transition: 0.3s;
-  font-size: 14px;
-  font-family: "Open Sans", sans-serif;
+    display: block;
+    position: relative;
+    color: #d2ece9;
+    padding: 10px 15px;
+    transition: 0.3s;
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
