@@ -7007,6 +7007,7 @@ button.bg-dark:focus {
   .d-sm-inline-flex {
     display: -ms-inline-flexbox !important;
     display: inline-flex !important;
+    border-bottom: 20px solid;
   }
 }
 

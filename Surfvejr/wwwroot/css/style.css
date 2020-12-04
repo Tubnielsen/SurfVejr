@@ -18,6 +18,7 @@ html {
   width: 100%;
 }
 
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #777;
@@ -119,18 +120,24 @@ h1, h2, h3, h4, h5, h6, .font-primary {
 # Navigation Menu
 --------------------------------------------------------------*/
 /* Desktop Navigation */
+.nav-item {
+    margin: 50px 20px 3px 20px
+}
+
 .nav-link {
     display: flex;
+    margin: 50px 20px 30px 20px;
     padding: 15px;
     font-weight: normal;
     border-bottom: 15px solid #fff;
     text-decoration: none;
 }
+
 .nav-menu, .nav-menu * {
     margin: auto;
-    padding: 0;
+    padding: 0px;
     list-style: none;
-    display: inline;
+    display: flex;
 }
 
 .nav-menu > ul > li {
@@ -143,9 +150,9 @@ h1, h2, h3, h4, h5, h6, .font-primary {
     display: block;
     position: relative;
     color: #d2ece9;
-    padding: 10px 15px;
+    padding: 30px 45px;
     transition: 0.3s;
-    font-size: 14px;
+    font-size: 30x;
     font-family: "Open Sans", sans-serif;
 }
 
