@@ -23,7 +23,7 @@ namespace Surfvejr
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-
+            services.AddRazorPages();
             // Connection to Webserver's database.
             //services.AddDbContextPool<SurfsUpContext>(options =>
             //        options.UseMySql(Configuration.GetConnectionString("SurfsUpConnection")));
@@ -40,6 +40,7 @@ namespace Surfvejr
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                app.UseDatabaseErrorPage();
             }
             else
             {
@@ -53,12 +54,12 @@ namespace Surfvejr
                 ForwardedHeaders = ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto
             });
 
-            app.UseAuthentication();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
@@ -66,6 +67,7 @@ namespace Surfvejr
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+                endpoints.MapRazorPages();
             });
         }
     }
