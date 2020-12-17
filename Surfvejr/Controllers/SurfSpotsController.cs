@@ -42,7 +42,7 @@ namespace Surfvejr.Controllers
             {
                 return NotFound();
             }
-
+            
             return View(surfSpot);
         }
 
