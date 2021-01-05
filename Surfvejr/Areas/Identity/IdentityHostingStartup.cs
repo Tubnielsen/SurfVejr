@@ -16,8 +16,8 @@ namespace Surfvejr.Areas.Identity
         {
             builder.ConfigureServices((context, services) => {
                 services.AddDbContext<AuthContext>(options =>
-                    options.UseSqlServer(
-                        context.Configuration.GetConnectionString("AuthContextConnection")));
+                     services.AddDbContextPool<SurfsUpContext>(options =>
+                    options.UseMySql(context.Configuration.GetConnectionString("SurfsUpConnection"))));
 
 
                 services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)

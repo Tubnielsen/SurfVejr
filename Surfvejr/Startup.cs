@@ -33,7 +33,7 @@ namespace Surfvejr
 
             // Connection to localDB for testing.
             services.AddDbContextPool<SurfsUpContext>(options =>
-                    options.UseMySql(Configuration.GetConnectionString("TestConnection")));
+                    options.UseMySql(Configuration.GetConnectionString("SurfsUpConnection")));
 
 
             services.Configure<RequestLocalizationOptions>(options =>
