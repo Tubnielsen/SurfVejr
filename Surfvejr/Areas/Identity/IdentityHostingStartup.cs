@@ -19,6 +19,7 @@ namespace Surfvejr.Areas.Identity
                     options.UseSqlServer(
                         context.Configuration.GetConnectionString("AuthContextConnection")));
 
+
                 services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
                     .AddEntityFrameworkStores<AuthContext>();
             });

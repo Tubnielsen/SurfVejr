@@ -1,0 +1,26 @@
+version: '3'
+services:
+  mysql-SurfsUp:
+    image: mysql:5.7.29
+    container_name: SurfsUpDb
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_DATABASE: SurfsUpDb
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: surfsup123
+      MYSQL_ROOT_PASSWORD: surfsup123
+      SERVICE_TAGS: dev
+      SERVICE_NAME: mysql
+    volumes:
+      - ./mysql:/var/lib/mysql
+  phpmyadmin-SurfsUp:
+    depends_on:
+      - mysql-SurfsUp
+    image: phpmyadmin/phpmyadmin
+    container_name: phpmyadmin-SurfsUpDb
+    restart: always
+    ports:
+      - '3307:80'
+    environment:
+      PMA_HOST: mysql-SurfsUp

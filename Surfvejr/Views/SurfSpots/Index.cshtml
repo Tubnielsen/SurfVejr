@@ -5,76 +5,106 @@
 }
 <html lang="en">
 
-    <head>
-        <meta charset="utf-8">
-        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-        <title>Surfs Up!</title>
-        <meta content="" name="descriptison">
-        <meta content="" name="keywords">
+    <title>Surfs Up!</title>
+    <meta content="" name="descriptison">
+    <meta content="" name="keywords">
 
-        <!-- Favicons -->
-        <link href="img/favicon.png" rel="icon">
-        <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+    <!-- Favicons -->
+    <link href="img/favicon.png" rel="icon">
+    <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
 
-        <!-- Google Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Lato:400,300,700,900" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Lato:400,300,700,900" rel="stylesheet">
 
-        <!-- Vendor CSS Files -->
-        <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-        <link href="vendor/icofont/icofont.min.css" rel="stylesheet">
-        <link href="vendor/venobox/venobox.css" rel="stylesheet">
-        <link href="vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <!-- Vendor CSS Files -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="vendor/icofont/icofont.min.css" rel="stylesheet">
+    <link href="vendor/venobox/venobox.css" rel="stylesheet">
+    <link href="vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
 
-        <!-- Main CSS File -->
-        <link href="css/style.css" rel="stylesheet">
+    <!-- Main CSS File -->
+    <link href="css/style.css" rel="stylesheet">
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD6Ppn7RS1wcD0ilmVHvh6-xoU9H5_-Iac&callback=initMap&libraries=&v=weekly"
+            defer></script>
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
 
-    </head>
+</head>
 
-    <body>
-        <h1>Index</h1>
-        <div class="container">
-            <p>
-                <a asp-action="Create">Create New</a>
-            </p>
-            <table class="table">
-                <thead>
+<body>
+    <h1>Index</h1>
+    <div class="container">
+        <!--The div element for the map -->
+        <div id="map"></div>
+        <p>
+            <a asp-action="Create">Create New</a>
+        </p>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Name)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Latitude)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Longitude)
+                    </th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
                     <tr>
-                        <th>
-                            @Html.DisplayNameFor(model => model.Name)
-                        </th>
-                        <th>
-                            @Html.DisplayNameFor(model => model.Latitude)
-                        </th>
-                        <th>
-                            @Html.DisplayNameFor(model => model.Longitude)
-                        </th>
-                        <th></th>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Name)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Latitude)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Longitude)
+                        </td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                            <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                            <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                        </td>
                     </tr>
-                </thead>
-                <tbody>
-                    @foreach (var item in Model)
-                    {
-                        <tr>
-                            <td>
-                                @Html.DisplayFor(modelItem => item.Name)
-                            </td>
-                            <td>
-                                @Html.DisplayFor(modelItem => item.Latitude)
-                            </td>
-                            <td>
-                                @Html.DisplayFor(modelItem => item.Longitude)
-                            </td>
-                            <td>
-                                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-                            </td>
-                        </tr>
-                    }
-                </tbody>
-            </table>
-        </div>
-    </body>
+                }
+            </tbody>
+        </table>
+    </div>
+    <script>
+        function initMap() {
+            // The location of Uluru
+            const odense = { lat: 55.39465625036186, lng: 10.382688451075492 };
+            // The map, centered at Uluru
+            const map = new google.maps.Map(document.getElementById("map"), {
+                zoom: 10,
+                center: odense,
+            });
+
+            @foreach (var surfspot in Model)
+            {
+                 <text>
+            const @surfspot.Name.Replace(" ", "") = new google.maps.Marker({
+                position: { lat: @surfspot.Latitude.ToString("0.00000000000000", System.Globalization.CultureInfo.InvariantCulture), lng: @surfspot.Longitude.ToString("0.00000000000000", System.Globalization.CultureInfo.InvariantCulture)},
+                map: map,
+                title: "@surfspot.Name",
+                content: "@surfspot.Name",
+                });
+                </text>
+            }
+
+
+        }
+    </script>
+</body>
 
 </html>

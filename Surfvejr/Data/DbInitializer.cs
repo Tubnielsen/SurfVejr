@@ -34,7 +34,7 @@ namespace Surfvejr.Data
             }
             context.SaveChanges();
 
-            var SurfSpots = new SurfSpot[]
+            /*var SurfSpots = new SurfSpot[]
             {
                 new SurfSpot { Name = "Solrød Strand", Latitude = 10.36, Longitude = 36.17, SpotData = { SpotData.ElementAt(0), SpotData.ElementAt(1) } },
                 new SurfSpot { Name = "Nysted Strand", Latitude = 77.11, Longitude = 64.81, SpotData = { SpotData.ElementAt(2), SpotData.ElementAt(3) } },
@@ -45,7 +45,7 @@ namespace Surfvejr.Data
             {
                 context.SurfSpots.Add(e);
             }
-            context.SaveChanges();
+            context.SaveChanges();*/
         }
     }
 }

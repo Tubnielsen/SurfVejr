@@ -7,6 +7,9 @@ using Microsoft.Extensions.Hosting;
 using Surfvejr.Data;
 using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 using Microsoft.EntityFrameworkCore;
+using System.Globalization;
+using Microsoft.AspNetCore.Localization;
+using Microsoft.Extensions.Options;
 
 namespace Surfvejr
 {
@@ -29,8 +32,23 @@ namespace Surfvejr
             //        options.UseMySql(Configuration.GetConnectionString("SurfsUpConnection")));
 
             // Connection to localDB for testing.
-            services.AddDbContext<SurfsUpContext>(options =>
-                    options.UseSqlServer(Configuration.GetConnectionString("TestConnection")));
+            services.AddDbContextPool<SurfsUpContext>(options =>
+                    options.UseMySql(Configuration.GetConnectionString("TestConnection")));
+
+
+            services.Configure<RequestLocalizationOptions>(options =>
+            {
+                var supportedCultures = new[]
+                 {
+                    new CultureInfo("en-US"),
+                };
+                options.DefaultRequestCulture = new RequestCulture("en-US");
+                options.SupportedCultures = supportedCultures;
+                options.SupportedUICultures = supportedCultures;
+            });
+
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -67,6 +85,7 @@ namespace Surfvejr
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");
+ 
                 endpoints.MapRazorPages();
             });
         }
