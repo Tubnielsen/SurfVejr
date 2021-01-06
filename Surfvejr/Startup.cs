@@ -28,10 +28,6 @@ namespace Surfvejr
             services.AddControllersWithViews();
             services.AddRazorPages();
             // Connection to Webserver's database.
-            //services.AddDbContextPool<SurfsUpContext>(options =>
-            //        options.UseMySql(Configuration.GetConnectionString("SurfsUpConnection")));
-
-            // Connection to localDB for testing.
             services.AddDbContextPool<SurfsUpContext>(options =>
                     options.UseMySql(Configuration.GetConnectionString("SurfsUpConnection")));
 
